@@ -13,18 +13,14 @@ plainwhite:
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: samarsault
-    github: samarsault
-    linkedIn: in/samarsault # format: locale/username
+    twitter: wp1998isback
+    github: wp1998
+    linkedIn: in/wp1998 # format: locale/username
     
     portfolio_image:  "assets/portfolio.png"
     disqus_shortname: games
     sitemap: true
     show_excerpts: true
     navigation:
-      - title: My Work
-        url: "/my-work"
-      - title: Resume
-        url: "/resume"
     dark_mode: true
     search: true
