@@ -1,26 +1,6 @@
 title: Wp1998.GitHub.io
-description: 
+description: don't see
 google_analytics: 
-show_downloads: true
-remote_theme: samarsault/plainwhite-jekyll
+show_downloads: false
 
-gems:
-  - jekyll-mentions
-
-plainwhite:
-  name: peng wu
-  tagline: Developer
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: wp1998isback
-    github: wp1998
-    linkedIn: in/wu-peng-25222712 # format: locale/username
-    
-    portfolio_image: "assets/face.png"
-    disqus_shortname: games
-    sitemap: true
-    show_excerpts: true
-    navigation:
-    dark_mode: true
-    search: true
+theme: jekyll-theme-cayman
