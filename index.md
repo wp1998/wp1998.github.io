@@ -1,8 +1,5 @@
 
-过去的时光如数字般消失，这里会开启一段新的旅程
-> 2020.7
-
-# Latest Posts
+# 不用翻页的列表：
 {% for post in site.posts %}
-  - [{{ post.url }}]{{ post.title }}
+  - [{{ post.title }}]({{ post.url }}) {{ page.date | date: '%B %d, %Y' }}
 {% endfor %}
